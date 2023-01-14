@@ -443,6 +443,7 @@ def save_booking(request):
         resp['msg'] = 'No data has been sent.'
     return HttpResponse(json.dumps(resp), content_type = 'application/json')
 
+@login_required
 def bookings(request):
     context['page_title'] = "Bookings"
     bookings = Booking.objects.all()
