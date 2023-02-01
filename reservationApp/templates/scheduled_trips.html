@@ -48,6 +48,7 @@
                     </thead>
                     <tbody>
                         {% for schedule in schedules %}
+                       {% if schedule.count_available > 0 %}
                         <tr>
                             <td class="px-2 py-1 align-middle">{{ forloop.counter }}</td>
                             <td class="px-2 py-1 align-middle text-center">{{ schedule.count_available|floatformat:0|intcomma }}</td>
@@ -76,6 +77,7 @@
                                 </button>
                             </td>
                         </tr>
+                        {% endif %}
                         {% endfor %}
                         
                     </tbody>
