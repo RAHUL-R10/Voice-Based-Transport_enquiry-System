@@ -55,7 +55,19 @@ Check out our [demo video](demo.mp4) <!-- Replace with a link to a demo video --
 ## Screenshots
 
 ![Screenshot 1](screenshot/image.png) <!-- Replace with actual screenshot -->
-![Screenshot 2](screenshots/screenshot2.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture2.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture3.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture4.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture5.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture6.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture7.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture8.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture9.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture10.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture11.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture12.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshots/Picture13.png) <!-- Replace with actual screenshot -->
+
 <!-- Add more screenshots as needed -->
 
 
