@@ -63,6 +63,5 @@ Check out our [demo video](demo.mp4) <!-- Replace with a link to a demo video --
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-![PROFILE](https://github.com/RAHUL-R10/Voice-Based-Transport_enquiry-System/assets/108997053/2d79c0a1-4c7b-4b8d-aba1-ed40b19a5647)
 
 
