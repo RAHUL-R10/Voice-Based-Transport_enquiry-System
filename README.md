@@ -54,7 +54,7 @@ Check out our [demo video](demo.mp4) <!-- Replace with a link to a demo video --
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png) <!-- Replace with actual screenshot -->
+![Screenshot 1](screenshot/image.png) <!-- Replace with actual screenshot -->
 ![Screenshot 2](screenshots/screenshot2.png) <!-- Replace with actual screenshot -->
 <!-- Add more screenshots as needed -->
 
