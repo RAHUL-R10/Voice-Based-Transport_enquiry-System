@@ -55,18 +55,18 @@ Check out our [demo video](demo.mp4) <!-- Replace with a link to a demo video --
 ## Screenshots
 
 ![Screenshot 1](screenshot/image.png) <!-- Replace with actual screenshot -->
-![Screenshot 2](screenshots/Picture2.png) <!-- Replace with actual screenshot -->
-![Screenshot 3](screenshots/Picture3.png) <!-- Replace with actual screenshot -->
-![Screenshot 4](screenshots/Picture4.png) <!-- Replace with actual screenshot -->
-![Screenshot 5](screenshots/Picture5.png) <!-- Replace with actual screenshot -->
-![Screenshot 6](screenshots/Picture6.png) <!-- Replace with actual screenshot -->
-![Screenshot 7](screenshots/Picture7.png) <!-- Replace with actual screenshot -->
-![Screenshot 8](screenshots/Picture8.png) <!-- Replace with actual screenshot -->
-![Screenshot 9](screenshots/Picture9.png) <!-- Replace with actual screenshot -->
-![Screenshot 10](screenshots/Picture10.png) <!-- Replace with actual screenshot -->
-![Screenshot 11](screenshots/Picture11.png) <!-- Replace with actual screenshot -->
-![Screenshot 12](screenshots/Picture12.png) <!-- Replace with actual screenshot -->
-![Screenshot 13](screenshots/Picture13.png) <!-- Replace with actual screenshot -->
+![Screenshot 2](screenshot/Picture2.png) <!-- Replace with actual screenshot -->
+![Screenshot 3](screenshot/Picture3.png) <!-- Replace with actual screenshot -->
+![Screenshot 4](screenshot/Picture4.png) <!-- Replace with actual screenshot -->
+![Screenshot 5](screenshot/Picture5.png) <!-- Replace with actual screenshot -->
+![Screenshot 6](screenshot/Picture6.png) <!-- Replace with actual screenshot -->
+![Screenshot 7](screenshot/Picture7.png) <!-- Replace with actual screenshot -->
+![Screenshot 8](screenshot/Picture8.png) <!-- Replace with actual screenshot -->
+![Screenshot 9](screenshot/Picture9.png) <!-- Replace with actual screenshot -->
+![Screenshot 10](screenshot/Picture10.png) <!-- Replace with actual screenshot -->
+![Screenshot 11](screenshot/Picture11.png) <!-- Replace with actual screenshot -->
+![Screenshot 12](screenshot/Picture12.png) <!-- Replace with actual screenshot -->
+![Screenshot 13](screenshot/Picture13.png) <!-- Replace with actual screenshot -->
 
 <!-- Add more screenshots as needed -->
 
